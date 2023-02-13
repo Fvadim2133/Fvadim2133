@@ -1,5 +1,8 @@
 <img src="code.gif" alt="Alt Text" style="width:100%;height:400px; box-shadow: 0 0 10px 5px #00ff00;">
 
+| Text | Image |
+| ---- | ----- |
+| Your text goes here. | <img src="code.gif" alt="Alt Text" style="width:100%;height:400px; box-shadow: 0 0 10px 5px #00ff00;"> |
 
 Here are some ideas to get you started:
 
