@@ -1,18 +1,15 @@
-<a style="background-color:aquamarine;">
 
 <img src="w1.png" style="width:100%; height:50px;"> 
 
 
 <img align="right" src="code.gif" style="width:600px; height:300px;"> 
 
+  
+ About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-  </a>
+😀 Vadim Formanyuk
+📙 I speak English, Spanish, Ukrainian, Russian.
+🏘️ Currently living in Spain (Alicante)
+🎓 Computer engineer 
+💡  Python, C++, C#, Plsql, Git, HTML, CSS
+✉️  Get in touch with me via email at vadimcalpe@gmail.com or connect on LinkedIn.
