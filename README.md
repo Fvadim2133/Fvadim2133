@@ -1,3 +1,5 @@
+<body style="background-color:aquamarine;">
+
 <img src="u1.jpg" style="width:100%; height:50px;"> 
 
 
@@ -12,3 +14,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  </body>
