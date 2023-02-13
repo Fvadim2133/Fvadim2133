@@ -1,4 +1,7 @@
-<img align="right" height="30" src="code.gif" style="width:600px; height:300px;"> 
+<img src="bs.jpg" style="width:100%; height:100px;"> 
+
+
+<img align="right" src="code.gif" style="width:600px; height:300px;"> 
 
 
 - 🔭 I’m currently working on ...
