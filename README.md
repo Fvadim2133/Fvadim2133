@@ -7,9 +7,9 @@
   
  About Me:
 
-😀 Vadim Formanyuk
-📙 I speak English, Spanish, Ukrainian, Russian.
-🏘️ Currently living in Spain (Alicante)
-🎓 Computer engineer 
-💡  Python, C++, C#, Plsql, Git, HTML, CSS
-✉️  Get in touch with me via email at vadimcalpe@gmail.com or connect on LinkedIn.
+◉ 😀 Vadim Formanyuk
+◉ 📙 I speak English, Spanish, Ukrainian, Russian.
+◉ 🏘️ Currently living in Spain (Alicante)
+◉ 🎓 Computer engineer 
+◉ 💡  Python, C++, C#, Plsql, Git, HTML, CSS
+◉ ✉️  Get in touch with me via email at vadimcalpe@gmail.com or connect on LinkedIn.
