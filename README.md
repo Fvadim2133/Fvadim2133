@@ -1,4 +1,4 @@
-<img align="right" height="30" src="code.gif" style="width:200px; height:200px;"> 
+<img align="right" height="30" src="code.gif" style="width:400px; height:400px;"> 
 
 
 - 🔭 I’m currently working on ...
