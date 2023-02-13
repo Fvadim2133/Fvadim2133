@@ -1,4 +1,4 @@
-<img src="bs.jpg" style="width:100%; height:100px;"> 
+<img src="bs2.png" style="width:100%; height:50px;"> 
 
 
 <img align="right" src="code.gif" style="width:600px; height:300px;"> 
