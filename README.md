@@ -3,7 +3,8 @@
 
 **Fvadim2133/Fvadim2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![A screenshot of my project](sunset.jpg)
+<img src="sunset.jpg" alt="Alt Text" style="width:500px;height:300px;">
+
 
 
 
