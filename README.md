@@ -1,6 +1,6 @@
 <a style="background-color:aquamarine;">
 
-<img src="i2.jpg" style="width:100%; height:50px;"> 
+<img src="w1.jpg" style="width:100%; height:50px;"> 
 
 
 <img align="right" src="code.gif" style="width:600px; height:300px;"> 
