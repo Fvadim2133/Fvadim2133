@@ -1,5 +1,6 @@
-<p float="left">
-    <a>
+<table>
+  <tr>
+      <a>
  - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -9,7 +10,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
   </a>
+  </tr>
+  <tr>
   <img src="code.gif" alt="Alt Text" style="width:100%;height:400px; vertical-align: middle;">
-</p>
-
-
+  </tr>
+ </table>
