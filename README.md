@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="code.gif" alt="Alt Text" style="width:100%;height:400px; box-shadow: 0 0 10px 5px #00ff00;">
+  <img src="code.gif" alt="Alt Text" style="width:100%;height:400px; vertical-align: middle;">
   <a>
  - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
