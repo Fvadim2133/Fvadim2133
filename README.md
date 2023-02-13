@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**Fvadim2133/Fvadim2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="sunset.jpg" alt="Alt Text" style="width:100%;height:300px;">
+<img src="sunset.jpg" alt="Alt Text" style="width:100%;height:400px;">
 
 
 Here are some ideas to get you started:
