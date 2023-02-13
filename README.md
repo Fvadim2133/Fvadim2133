@@ -1,4 +1,4 @@
-<img src="p1.webp" alt="Alt Text" style="width:100%;height:400px;">
+<img src="p1.webp" alt="Alt Text" style="width:100%;height:400px; box-shadow: 0 0 10px 5px #ff0000;">
 
 
 Here are some ideas to get you started:
