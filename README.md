@@ -11,5 +11,9 @@
 - ⚡ Fun fact: ... 
   </a>
 </p>
+<p float="left">
+  <img src="code.gif" alt="Alt Text" style="width:100%;height:400px; vertical-align: middle;">
+  <a> width="100" </a> 
+</p>
 
 
