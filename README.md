@@ -15,7 +15,7 @@
 
 ◉ 🎓 Computer engineer
 
-◉ 💡  Technologies/languages i used in my projects of the university: Python, C++, C#, C, Assembly, php, ada, swift,   Plsql, Git, HTML, CSS, Sockets, Kafka, Distributed servers, Dockers, Nodered, API Rest, Keras AI, Boostrap, Arduino,  laravel 
+◉ 💡 Technologies/languages i used: Python, C++, C#, C, Assembly, php, ada, swift, PLsql, Git, HTML, CSS, Sockets, Kafka, Distributed servers, Dockers, Nodered, API Rest, Keras AI, Boostrap, Arduino, Laravel
 
 
 ◉ ✉️  Get in touch with me via email at vadimcalpe@gmail.com or connect on LinkedIn.
