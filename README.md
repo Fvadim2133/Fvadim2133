@@ -15,6 +15,7 @@
 
 ◉ 🎓 Computer engineer
 
-◉ 💡  Python, C++, C#, Plsql, Git, HTML, CSS
+◉ 💡  Technologies/languages i used in my projects of the university: Python, C++, C#, C, Assembly,  Plsql, Git, HTML, CSS, Sockets, Kafka, 
+
 
 ◉ ✉️  Get in touch with me via email at vadimcalpe@gmail.com or connect on LinkedIn.
