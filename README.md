@@ -13,7 +13,7 @@ Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">S
 
 ## 📣 <a href=""> 𝑰 𝒔𝒑𝒆𝒂𝒌   </a> 
 
-<img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian     Visitors count:![](https://profile-counter.glitch.me/VadimFor/count.svg)
+<img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian               Visitors count: ![](https://profile-counter.glitch.me/VadimFor/count.svg)
 
 
 
