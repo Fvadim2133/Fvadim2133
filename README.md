@@ -1,5 +1,3 @@
-█░█░█ █▀▀ █░░ █▀▀ █▀█ █▀▄▀█ █▀▀
-▀▄▀▄▀ ██▄ █▄▄ █▄▄ █▄█ █░▀░█ ██▄
 <img src="w1.png" style="width:100%; height:50px;"> 
 
 
@@ -9,7 +7,7 @@
 # 👋🏻  <a href=""> Hi! I´m Vadim </a> 
 Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">Spain since 2002
 
-# 👨🏻‍🎓<a href="">  Official Education   </a> 
+# 👨🏻‍🎓<a href="">  𝒪𝒻𝒻𝒾𝒸𝒾𝒶𝓁 ℰ𝒹𝓊𝒸𝒶𝓉𝒾ℴ𝓃   </a> 
 
 -Baccalaureate (Alicante,Spain)
 
