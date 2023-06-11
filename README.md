@@ -1,5 +1,5 @@
-<img src="w1.png" style="width:100%; height:50px;"> 
-<img src="a.gif" style="width:10000px; height:20px;"> 
+<img src="w1.png" style="width:100%; height:5%;"> 
+<img src="a.gif" style="width:10000px; height:5%;"> 
 
 <img align="right" src="code.gif" style="width:450px; height:270px;"> 
 
