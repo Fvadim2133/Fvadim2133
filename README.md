@@ -4,16 +4,16 @@
 <img align="right" src="code.gif" style="width:450px; height:270px;"> 
 
     
-# 👋🏻  <a href=""> 𝑯𝒊! 𝑰´𝒎 𝑽𝒂𝒅𝒊𝒎 </a> 
+## 👋🏻  <a href=""> 𝑯𝒊! 𝑰´𝒎 𝑽𝒂𝒅𝒊𝒎 </a> 
 Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">Spain since 2002
 
-# 👨🏻‍🎓<a href="">  𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏   </a> 
+## 👨🏻‍🎓<a href="">  𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏   </a> 
 
 -Baccalaureate (Alicante,Spain)
 
 -Degree in Computer Engineering (University of Alicante)
 
-# 📣 <a href=""> 𝑰 𝒔𝒑𝒆𝒂𝒌   </a> 
+## 📣 <a href=""> 𝑰 𝒔𝒑𝒆𝒂𝒌   </a> 
 
 <img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian
 
@@ -21,7 +21,7 @@ Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">S
 
 
 
-# 🌐 <a href=""> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕  </a> 
+## 🌐 <a href=""> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕  </a> 
 ![gmail](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)
 vadimcalpe@gmail.com
 
@@ -29,7 +29,7 @@ vadimcalpe@gmail.com
 FVadim#3926
 
 
-# 👨🏻‍💻  <a href=""> 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔  </a> 
+## 👨🏻‍💻  <a href=""> 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔  </a> 
 
 
 ![html](https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
@@ -62,6 +62,7 @@ FVadim#3926
 ![Postgresql](https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 ![Flask](https://camo.githubusercontent.com/68390254ad6054b8e98b68fbcae09a3b78751427686f3e003a33c2bbc913b14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465)
 
+## Here's some humor for you:
 <img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Error fetching resource, Refresh again to view Jokes Card" width="2000" data-canonical-src="https://readme-jokes.vercel.app/api" style="max-width: 100%;">
 
 
