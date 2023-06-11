@@ -15,7 +15,7 @@
 
 # I speak
 
-.|.|.|.|
+. | . | . | . |
 English | Spanish | Ukrainian | Russian
 
 # 🌐 Contact
