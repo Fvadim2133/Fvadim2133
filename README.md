@@ -6,6 +6,17 @@
 
 # public class Vadim
 # {
+
+    public string Name { get; set; }
+    public string Surname { get; set; }
+    
+    public Vadim(string name, string surname)
+    {
+        this.Name = Vadim;
+        this.Name = Formanyuk;
+    }
+    
+    
   # Hi! I'm Vadim! 👋🏻
   Living in spain since 2002
 
