@@ -6,6 +6,7 @@
 
   
 # Hi! I'm Vadim! 👋🏻
+Living in spain since 2002
 
 # Official Education 👨🏻‍🎓
 
