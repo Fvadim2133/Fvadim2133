@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 <img src="w1.png" style="width:100%; height:50px;"> 
 
 <img align="right" src="code.gif" style="width:450px; height:270px;"> 
