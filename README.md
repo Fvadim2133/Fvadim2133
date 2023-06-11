@@ -1,3 +1,4 @@
+<img src="bottom.svg" style="width:100%; height:50px;"> 
 
 <img src="w1.png" style="width:100%; height:50px;"> 
 
