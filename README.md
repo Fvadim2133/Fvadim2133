@@ -65,6 +65,15 @@ FVadim#3926
 
 
 
+<p align="center" dir="auto">
+<a href="https://github.com/shahriarshafin/shahriarshafin">
+<img width="49%" align="center" src="https://camo.githubusercontent.com/87be4de765f44757b2b8f65941f62f1529c1f36ae39a3df4d3d8b2ac5a2932ed/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d736861687269617273686166696e267265706f3d736861687269617273686166696e26626f726465725f636f6c6f723d3032443839322662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43394431443926746578745f636f6c6f723d3842393439452669636f6e5f636f6c6f723d303244383932" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&amp;repo=shahriarshafin&amp;border_color=02D892&amp;bg_color=0D1117&amp;title_color=C9D1D9&amp;text_color=8B949E&amp;icon_color=02D892" style="max-width: 100%;">
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<img width="49%" align="center" src="https://camo.githubusercontent.com/1ff5f2036b548a74ec76d9ccd7c709593e0219127f3ac2092c16bf36fcab0e47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d736861687269617273686166696e267265706f3d6469736e65792d706c75732d636c6f6e6526626f726465725f636f6c6f723d3032443839322662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43394431443926746578745f636f6c6f723d3842393439452669636f6e5f636f6c6f723d303244383932" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&amp;repo=disney-plus-clone&amp;border_color=02D892&amp;bg_color=0D1117&amp;title_color=C9D1D9&amp;text_color=8B949E&amp;icon_color=02D892" style="max-width: 100%;">
+</a>
+</p>
 
 
   
