@@ -15,7 +15,7 @@
 
 # I speak 📣
 
-<img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian | Russian
+<img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian
 
 
 
