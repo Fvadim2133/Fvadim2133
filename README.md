@@ -3,7 +3,7 @@
 <img align="right" src="code.gif" style="width:450px; height:270px;"> 
 
 ## 👋🏻  <a href=""> 𝑯𝒊! 𝑰´𝒎 𝑽𝒂𝒅𝒊𝒎 </a> 
-Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">Spain since 2002
+Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">Spain since 2002    ![](https://profile-counter.glitch.me/VadimFor/count.svg)
 
 ## 👨🏻‍🎓<a href="">  𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏   </a> 
 
@@ -71,7 +71,6 @@ FVadim#3926
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 
-![](https://profile-counter.glitch.me/VadimFor/count.svg)
 
 
 
