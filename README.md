@@ -8,7 +8,7 @@ Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">S
 
 ## 👨🏻‍🎓<a href="">  𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏   </a> 
 
--Baccalaureate (Alicante,Spain)
+-Bachelor(Alicante,Spain)
 
 -Degree in Computer Engineering (University of Alicante)
 
