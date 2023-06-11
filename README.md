@@ -65,7 +65,7 @@ FVadim#3926
 
 
 
-<img align="right" height="115" src="https://camo.githubusercontent.com/45c79fe7ed4544ce6ed02b877d12a45b0a123c8d6bf395e6e32134d935d60004/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7a756d727564752d616e6b61267265706f3d4461746153747275637475726573267468656d653d726561637426626f726465725f636f6c6f723d36316461666226626f726465725f7261646975733d3130" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&amp;repo=DataStructures&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;">
+<img align="right" height="115" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&amp;repo=DataStructures&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;">
 
 
 
