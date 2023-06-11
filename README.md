@@ -3,7 +3,7 @@
 <img align="right" src="code.gif" style="width:450px; height:270px;"> 
 
 ## 👋🏻  <a href=""> 𝑯𝒊! 𝑰´𝒎 𝑽𝒂𝒅𝒊𝒎 </a> 
-Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">Spain since 2002    ![](https://profile-counter.glitch.me/VadimFor/count.svg)
+Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">Spain since 2002   
 
 ## 👨🏻‍🎓<a href="">  𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏   </a> 
 
@@ -13,7 +13,7 @@ Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">S
 
 ## 📣 <a href=""> 𝑰 𝒔𝒑𝒆𝒂𝒌   </a> 
 
-<img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian
+<img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian     Visitors count:![](https://profile-counter.glitch.me/VadimFor/count.svg)
 
 
 
