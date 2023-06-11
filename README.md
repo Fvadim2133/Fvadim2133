@@ -8,13 +8,19 @@
 #Hi! I'm Vadim! 👋🏻
 
 #Official Education 👨🏻‍🎓
+
 -Baccalaureate (Alicante,Spain)
+
 -Degree in Computer Engineering (University of Alicante)
 
 #Language
+
 -English
+
 -Spanish
+
 -Ukrainian
+
 -Russian
 
 
