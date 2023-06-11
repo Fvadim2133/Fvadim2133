@@ -1,5 +1,6 @@
 <img src="w1.png" style="width:100%; height:50px;"> 
-You´re the visitor:    ![](https://profile-counter.glitch.me/VadimFor/count.svg)
+You´re the visitor:    
+![](https://profile-counter.glitch.me/VadimFor/count.svg)
 
 <img align="right" src="code.gif" style="width:450px; height:270px;"> 
 
