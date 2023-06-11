@@ -1,5 +1,5 @@
 <img src="w1.png" style="width:100%; height:50px;"> 
-You´re the visitor:    
+
 ![](https://profile-counter.glitch.me/VadimFor/count.svg)
 ![](https://profile-counter.glitch.me/VadimFor/count.svg)
 
