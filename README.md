@@ -6,7 +6,7 @@
 
     
 # Hi! I'm Vadim! 👋🏻
-Living in spain since 2002
+Living in <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;">Spain since 2002
 
 # Official Education 👨🏻‍🎓
 
