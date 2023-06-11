@@ -4,45 +4,33 @@
 
 <img align="right" src="code.gif" style="width:450px; height:270px;"> 
 
-# public class Vadim
-# {
-
-    public string Name { get; set; }
-    public string Surname { get; set; }
     
-    public Vadim(string name, string surname)
-    {
-        this.Name = Vadim;
-        this.Name = Formanyuk;
-    }
-    
-    
-  # Hi! I'm Vadim! 👋🏻
-  Living in spain since 2002
+# Hi! I'm Vadim! 👋🏻
+Living in spain since 2002
 
-  # Official Education 👨🏻‍🎓
+# Official Education 👨🏻‍🎓
 
-  -Baccalaureate (Alicante,Spain)
+-Baccalaureate (Alicante,Spain)
 
-  -Degree in Computer Engineering (University of Alicante)
+-Degree in Computer Engineering (University of Alicante)
 
-  # I speak 📣
+# I speak 📣
 
-  <img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian
+<img src="GB@2x.png" width="21" height="15" style="max-width: 100%;"> English | <img src="ES@2x.png" width="21" height="15" style="max-width: 100%;"> Spanish | <img src="UA@2x.png" width="21" height="15" style="max-width: 100%;">Ukrainian
 
 
 
 
 
-  # 🌐 Contact
-  ![gmail](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)
-  vadimcalpe@gmail.com
+# 🌐 Contact
+![gmail](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)
+vadimcalpe@gmail.com
 
-  ![Discord](https://camo.githubusercontent.com/f868f43f3c084669121e55e633ca5c3e11d382872ab7db663789f5c736c71a43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)
-  FVadim#3926
+![Discord](https://camo.githubusercontent.com/f868f43f3c084669121e55e633ca5c3e11d382872ab7db663789f5c736c71a43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)
+FVadim#3926
 
 
-  # Technologies 👨🏻‍💻
+# Technologies 👨🏻‍💻
 
 
 ![html](https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
@@ -74,8 +62,6 @@
 ![MongoDB](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 ![Postgresql](https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 ![Flask](https://camo.githubusercontent.com/68390254ad6054b8e98b68fbcae09a3b78751427686f3e003a33c2bbc913b14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465)
-
-# }
 
 
 
