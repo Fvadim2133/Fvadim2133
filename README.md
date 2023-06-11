@@ -62,12 +62,7 @@ FVadim#3926
 ![Postgresql](https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 ![Flask](https://camo.githubusercontent.com/68390254ad6054b8e98b68fbcae09a3b78751427686f3e003a33c2bbc913b14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465)
 
-
-
-
-<img align="right" height="115" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&amp;repo=DataStructures&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;">
-
-
+<img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Error fetching resource, Refresh again to view Jokes Card" width="2000" data-canonical-src="https://readme-jokes.vercel.app/api" style="max-width: 100%;">
 
 
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
